@@ -1,0 +1,1 @@
+using JS to select elements through the DOM
